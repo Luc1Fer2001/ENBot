@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ENBot": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "authenticationMode": "Windows"
+    }
+  }
+}
